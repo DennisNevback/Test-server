@@ -1,11 +1,11 @@
 import React, { useState } from "react"
 
-export default function Home() {
+export default function Footer() {
   const [count, setCount] = useState(0)
 
   return (
     <div>
-      <p>This is the Home</p>
+      <p>This is the footer</p>
     </div>
   )
 }

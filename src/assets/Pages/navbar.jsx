@@ -1,11 +1,12 @@
 import React, { useState } from "react"
+import './Styling/navbar.css'
 
-export default function Home() {
+export default function Navbar() {
   const [count, setCount] = useState(0)
 
   return (
     <div>
-      <p>This is the Home</p>
+      <h1> Dennis page!</h1>
     </div>
   )
 }
