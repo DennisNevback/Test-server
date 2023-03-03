@@ -5,8 +5,6 @@ export default function Navbar() {
   const [count, setCount] = useState(0)
 
   return (
-    <div>
-      <h1> Dennis page!</h1>
-    </div>
+    <h1 className="headermain"> Dennis page!</h1>
   )
 }

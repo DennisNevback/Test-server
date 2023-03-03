@@ -1,4 +1,4 @@
-.h1 {
-  background-color: aliceblue;
-  font-size: 4em;
+.wrapperfooter {
+  flex-shrink: 0;
+
 }

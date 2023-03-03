@@ -12,7 +12,6 @@ function App() {
       <Navbar />
       <Home />
       <Footer />
-      <h1>testing123</h1>
     </div>
   )
 }

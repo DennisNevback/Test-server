@@ -4,7 +4,7 @@ export default function Footer() {
   const [count, setCount] = useState(0)
 
   return (
-    <div>
+    <div className="wrapperfooter">
       <p>This is the footer</p>
     </div>
   )

@@ -1,4 +1,7 @@
-.h1 {
-  background-color: rgb(39, 104, 160);
-  font-size: 4em;
+.headermain {
+  width: max-content;
+  display: block;
+  position: relative;
+  margin-left: 2%;
+  margin-top: 2%;
 }

@@ -5,7 +5,7 @@ export default function Home() {
 
   return (
     <div>
-      <p>This is the Home</p>
+      <p>*insert cool stuff*</p>
     </div>
   )
 }
