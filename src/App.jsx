@@ -6,6 +6,7 @@ import Navbar from './assets/Pages/navbar'
 
 function App() {
   const [count, setCount] = useState(0)
+  const a [counta, setCounta] = useState(0)
 
   return (
     <div className="App">
